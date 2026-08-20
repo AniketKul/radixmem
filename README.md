@@ -105,5 +105,3 @@ The project is in architectural design. No implementation has started. The
 selected first architecture is a standalone authoritative service with local or
 mock memory workers; inference-engine adapters will follow after the core
 semantics have been validated.
-
-See [the current brainstorming record](docs/brainstorming/2026-08-20-current-status.md).
