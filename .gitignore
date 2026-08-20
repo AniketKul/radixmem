@@ -1,0 +1,17 @@
+# Local brainstorming UI sessions and server state.
+.superpowers/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+
+# Build and editor output
+build/
+dist/
+.idea/
+.vscode/
+
