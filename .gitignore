@@ -1,6 +1,7 @@
 # Local brainstorming UI sessions and server state.
 .superpowers/
 docs/brainstorming/
+.worktrees/
 
 # Python
 __pycache__/
